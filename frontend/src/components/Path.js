@@ -1,4 +1,4 @@
-const app_name = 'cop-4331-large-project'
+const app_name = 'myuseum'
 exports.buildPath = 
 function buildPath(route)
 {
